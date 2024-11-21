@@ -2,7 +2,7 @@
 
 A modern React-based dashboard that visualizes daily PARCO user analytics data. This application provides an interactive interface for viewing and analyzing user activity patterns through customizable charts.
 
-## 🚀 Features
+## Features
 
 - **Interactive Data Visualization**: Dynamic stacked bar charts showing daily user activity patterns
 - **Dual View Modes**:
@@ -13,7 +13,7 @@ A modern React-based dashboard that visualizes daily PARCO user analytics data. 
 - **Performance Optimized**: Implements React's useMemo for efficient data processing
 - **Type-Safe**: Comprehensive TypeScript implementation with strict type checking
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - React 18.3.1
 - TypeScript 5.6.2
@@ -23,7 +23,7 @@ A modern React-based dashboard that visualizes daily PARCO user analytics data. 
 - ESLint 9.13.0
 - Emotion for styled components
 
-## 📦 Installation
+## Installation
 
 1. Clone the repository:
 
@@ -104,16 +104,6 @@ Header component featuring:
 - ESLint configuration with recommended rules and React-specific plugins
 - Consistent code formatting and organization
 - Memoized computations for performance optimization
-
-## Future Improvements
-
-- [ ] Add unit tests with Jest and React Testing Library
-- [ ] Implement error boundaries for better error handling
-- [ ] Add loading states for data fetching
-- [ ] Replace mock data with API integration
-- [ ] Add date range selection functionality
-- [ ] Implement data export features
-- [ ] Add more chart customization options
 
 ## Development Notes
 
