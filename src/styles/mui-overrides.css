@@ -1,0 +1,27 @@
+/* Toggle Button Overrides */
+.css-hsttf4-MuiButtonBase-root-MuiToggleButton-root.Mui-selected {
+  background-color: #fff !important;
+}
+
+/* Chart Grid Overrides */
+.css-195sd4n-MuiChartsGrid-line {
+  stroke: #d2d6da !important;
+  stroke-dasharray: 4 4;
+}
+
+/* Chart Axis Overrides */
+.css-12zi39b-MuiChartsAxis-root-MuiChartsXAxis-root .MuiChartsAxis-line {
+  stroke: #a3a7aa !important;
+  stroke-width: 2 !important;
+}
+
+/* Bar Element Overrides */
+.css-1x4eoyi-MuiBarElement-root,
+.MuiBarElement-root {
+  width: 5px !important;
+}
+
+/* Legend Overrides */
+.css-nsbw82-MuiChartsLegend-root {
+  display: none;
+}
